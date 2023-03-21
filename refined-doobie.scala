@@ -11,7 +11,6 @@ import cats.implicits.*
 import doobie.*
 import doobie.implicits.*
 import doobie.refined.implicits.*
-import doobie.util.ExecutionContexts
 
 import eu.timepit.refined.*
 import eu.timepit.refined.api.Refined

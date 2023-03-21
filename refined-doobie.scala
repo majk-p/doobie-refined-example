@@ -13,7 +13,7 @@ import doobie.implicits.*
 import doobie.refined.implicits.*
 import doobie.util.ExecutionContexts
 
-import eu.timepit.refined._
+import eu.timepit.refined.*
 import eu.timepit.refined.api.Refined
 import eu.timepit.refined.string.MatchesRegex
 import eu.timepit.refined.types.numeric.PosInt
